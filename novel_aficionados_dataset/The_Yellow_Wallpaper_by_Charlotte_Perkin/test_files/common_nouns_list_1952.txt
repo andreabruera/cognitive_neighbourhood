@@ -1,4 +1,0 @@
-34	paper_PAPER
-26	thing_things
-25	pattern_patterns
-23	room_rooms

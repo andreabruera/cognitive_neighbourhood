@@ -1,9 +1,0 @@
-167	man_men_MEN_Men
-81	brother_brothers
-56	word_words_Word
-54	eye_eyes
-50	hand_hands
-50	day_days
-48	thing_things_Things
-46	earth
-46	body_bodies

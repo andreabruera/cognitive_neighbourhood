@@ -1,7 +1,0 @@
-48	Ichabod Crane_Ichabod_Crane
-11	Baltus Van Tassel_Van Tassel
-11	Brom Bones_Bones_Brom
-9	Hans Van Ripper_Van Ripper
-4	André
-3	Brouwer
-2	Cotton Mather

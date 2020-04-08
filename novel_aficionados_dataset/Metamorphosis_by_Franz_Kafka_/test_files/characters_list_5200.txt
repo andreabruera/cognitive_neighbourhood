@@ -1,5 +1,0 @@
-292	Gregor
-23	Mr. Samsa_Samsa
-23	Grete
-10	Mrs. Samsa
-2	Anna
