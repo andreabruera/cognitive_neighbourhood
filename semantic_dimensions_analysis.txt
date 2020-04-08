@@ -1,0 +1,160 @@
+
+PMI_window_2
+
+Median for common nouns: 3.86103403375294
+Median for proper names: 4.086541205094045
+
+P-value: 0.004127742073929687
+Effect size: 0.3734118534710685
+
+PMI_window_15
+
+Median for common nouns: 5.074996060515424
+Median for proper names: 5.016422845496603
+
+P-value: 0.06663051988058209
+Effect size: 0.23878705366702535
+
+PMI_window_5
+
+Median for common nouns: 3.941934068551781
+Median for proper names: 3.8413406554562366
+
+P-value: 0.10956067435589388
+Effect size: 0.2083245077259645
+
+PMI_window_10
+
+Median for common nouns: 4.604048610709877
+Median for proper names: 4.512447329843085
+
+P-value: 0.0514894573887203
+Effect size: 0.25352699525140965
+
+body_object_interaction_window_15
+
+Median for common nouns: 17.06225
+Median for proper names: 17.112499999999997
+
+P-value: 0.7569662997293081
+Effect size: 0.040289173663983706
+
+body_object_interaction_window_5
+
+Median for common nouns: 5.75575
+Median for proper names: 5.763999999999999
+
+P-value: 0.6730533913166536
+Effect size: 0.05493465963175193
+
+body_object_interaction_window_2
+
+Median for common nouns: 2.32
+Median for proper names: 2.32
+
+P-value: 0.897954140210817
+Effect size: 0.016696233013419215
+
+body_object_interaction_window_10
+
+Median for common nouns: 11.402000000000001
+Median for proper names: 11.417
+
+P-value: 0.832619376083905
+Effect size: 0.02751455762418399
+
+valence_window_10
+
+Median for common nouns: 13.893500000000003
+Median for proper names: 13.857500000000002
+
+P-value: 0.6290457060450958
+Effect size: 0.06289041742670626
+
+valence_window_2
+
+Median for common nouns: 2.8770000000000002
+Median for proper names: 2.831
+
+P-value: 0.8617050358887447
+Effect size: 0.02267944663696181
+
+valence_window_5
+
+Median for common nouns: 7.005250000000001
+Median for proper names: 6.982000000000001
+
+P-value: 0.8208591537100467
+Effect size: 0.029479988139715103
+
+valence_window_15
+
+Median for common nouns: 20.760500000000008
+Median for proper names: 20.709000000000007
+
+P-value: 0.5662072590650906
+Effect size: 0.0746823706942137
+
+concreteness_window_5
+
+Median for common nouns: 5.164
+Median for proper names: 5.271999999999999
+
+P-value: 0.04155385631817055
+Effect size: 0.26531989325743593
+
+concreteness_window_10
+
+Median for common nouns: 10.2195
+Median for proper names: 10.44
+
+P-value: 0.09088520648663702
+Effect size: 0.22011646099347193
+
+concreteness_window_15
+
+Median for common nouns: 15.233499999999998
+Median for proper names: 15.610000000000003
+
+P-value: 0.08526198031655641
+Effect size: 0.22404711208264108
+
+concreteness_window_2
+
+Median for common nouns: 2.044
+Median for proper names: 2.1500000000000004
+
+P-value: 0.006145319920594104
+Effect size: 0.35670785649055275
+
+imageability_window_5
+
+Median for common nouns: 6.635999999999999
+Median for proper names: 6.672499999999999
+
+P-value: 0.975914005341583
+Effect size: 0.003930651089169141
+
+imageability_window_2
+
+Median for common nouns: 2.7060000000000004
+Median for proper names: 2.7
+
+P-value: 0.8229019354214293
+Effect size: 0.029138117727814494
+
+imageability_window_15
+
+Median for common nouns: 19.797250000000005
+Median for proper names: 19.88200000000001
+
+P-value: 0.832619376083905
+Effect size: 0.02751455762418399
+
+imageability_window_10
+
+Median for common nouns: 13.213750000000005
+Median for proper names: 13.289500000000006
+
+P-value: 0.9783813960968544
+Effect size: 0.0035278874865681087

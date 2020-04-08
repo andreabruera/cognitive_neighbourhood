@@ -1,0 +1,31 @@
+47	WAGNER_Wagner
+29	ROBIN_Robin
+25	RALPH_Ralph
+22	JOHN FAUSTUS_Faustus
+18	Mephistophilis
+16	Lucifer
+13	Duke of Vanholt_DUKE_Duke
+12	Valdes_VALDES
+10	Helen_HELEN
+8	Cornelius_CORNELIUS
+7	KNIGHT
+6	Christ
+5	Alexander
+5	Belcher
+4	SHAKESPEARE
+4	Jove
+4	Exeunt ANGELS_Exeunt Angels
+4	Helena
+4	Marlowe
+3	Peter
+3	LORRAIN_Lorrain
+3	Wertenberg
+3	Baliol
+2	Milton_MILTON
+2	Agrippa
+2	Wittenberg
+2	God
+2	Carolus
+2	Parma
+2	Homo
+2	Bacon

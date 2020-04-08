@@ -1,0 +1,9 @@
+102	thing_things
+97	time_times
+77	nothing_Nothing
+72	child_children
+71	moment_moments
+70	way_ways
+63	face_faces
+60	day_days
+58	eye_eyes

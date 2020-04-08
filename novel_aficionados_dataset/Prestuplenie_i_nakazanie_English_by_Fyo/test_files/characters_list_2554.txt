@@ -1,0 +1,92 @@
+776	Mr. Raskolnikov_Raskolnikov
+390	Sonia
+306	Mr. Razumihin_Razumihin
+305	Dounia
+236	Pyotr Petrovitch Luzhin_Pyotr Petrovitch_Luzhin
+217	Katerina Ivanovna_Ivanovna
+186	Porfiry Petrovitch_Porfiry
+177	Mr. Svidrigaïlov_Svidrigaïlov
+115	Pulcheria Alexandrovna
+103	Avdotya Romanovna
+96	Rodion Romanovitch Raskolnikov_Rodion Romanovitch_Rodion Raskolnikov_Rodion
+88	Rodya
+80	Mr. Zametov_Zametov
+74	Sofya Semyonovna Marmeladov_Sofya Semyonovna_Marmeladov_Sofya
+73	Nastasya
+72	Andrey Semyonovitch Lebeziatnikov_Andrey Semyonovitch_Lebeziatnikov
+71	Zossimov
+69	Marfa Petrovna_Petrovna
+62	Nikolay
+55	Amalia Ivanovna
+48	Dmitri Prokofitch_Dmitri
+47	Lizaveta Ivanovna_Lizaveta
+34	Mr. Marmeladov_Marmeladov
+33	Ilya Petrovitch
+24	Nikodim Fomitch
+21	Koch
+20	Mr. Luzhin
+20	Mr. Lebeziatnikov_Lebeziatnikov
+16	Alyona Ivanovna
+15	Mikolka
+14	Polenka
+13	Jesus
+11	Napoleon
+11	Arkady Ivanovitch Svidrigaïlov_Arkady Ivanovitch
+10	Pestryakov
+10	Kolya
+10	Semyon Zaharovitch
+10	Madame Resslich_Resslich
+10	Amalia Ludwigovna_Ludwigovna
+9	Dostoevsky
+9	Luise Ivanovna_Luise
+8	Philip
+8	Dushkin
+7	Kapernaumov
+7	Petersburg
+7	Lazarus
+6	Katia
+6	Bakaleyev
+6	Praskovya Pavlovna
+6	Mr. Tchebarov_Tchebarov
+6	Afanasy Ivanovitch Vahrushin_Afanasy Ivanovitch
+6	Schiller
+6	Jove
+5	Martha
+5	Madame Lippevechsel
+5	Potchinkov
+5	Kozel
+4	Karl
+4	Achilles
+4	Gogol
+4	Mary
+4	Vassilyevsky Ostrov
+4	Pashenka
+3	Sofya Ivanovna
+3	Harlamov
+3	Newton
+3	Weekly Review
+3	Raphael
+3	Senate
+3	Darya Frantsovna
+3	Madonna
+2	Berg
+2	Vater
+2	Yusupov
+2	Mitka
+2	Semyon Semyonovitch
+2	Alexandr Grigorievitch
+2	Christ
+2	Vrazumihin
+2	Ivan Afanasyvitch
+2	Wäsche
+2	Mihail
+2	Amalia Lippevechsel
+2	Du
+2	Heruvimov
+2	Pushkin
+2	Zarnitsyn
+2	Aniska
+2	Amalia Fyodorovna
+2	Fourier
+2	Missy
+2	Babushkin

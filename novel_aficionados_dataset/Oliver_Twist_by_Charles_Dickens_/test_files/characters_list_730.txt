@@ -1,0 +1,74 @@
+857	Oliver Twist_Oliver_OLIVER
+360	Mr. Bumble_Bumble
+341	Mr. William Sikes_MR. WILLIAM SIKES_Mr. Sikes_Sikes
+301	Mr. Fagin_MR. FAGIN_Fagin_FAGIN
+172	Mr. Brownlow_MR. BROWNLOW_Brownlow
+162	Mr. Noah Claypole_Noah Claypole_Mr. Claypole_Noah
+140	Miss Rose_Rose
+122	Charley Bates_Charley_Bates
+119	Mr. Giles_Giles
+116	Miss Nancy_MISS NANCY_Nancy_NANCY
+95	Bill Sikes_Sikes_Bill
+75	Mr. Toby Crackit_Toby Crackit_Mr. Crackit_Crackit_Toby
+65	Mr. Grimwig_MR. GRIMWIG_Grimwig
+63	Mrs. Corney_Corney
+57	Mrs. Mann
+57	Harry Maylie_HARRY MAYLIE_Harry
+55	Mrs. Maylie
+47	Mr. Sowerberry_Sowerberry
+46	Mr. Losberne_Losberne
+36	Mrs. Sowerberry
+33	Barney
+33	Mr. Fang_Fang
+32	Mr. Morris Bolter_Morris Bolter_Mr. Bolter_Bolter
+30	Mr. Chitling_Chitling
+28	Mrs. Bedwin_Bedwin
+25	Mr. Gamfield_Gamfield
+23	Mrs. Bumble
+19	Duff
+18	Tom White_Tom
+15	Mr. John Dawkins_John Dawkins_Mr. Dawkins_John
+15	Charlotte
+14	Dick
+12	Mr. Limbkins
+12	Master Bates
+11	Miss Maylie
+9	Rose Maylie
+9	Mr. Blathers
+8	Jem Spyers_Spyers_Jem
+8	Jack Dawkins_Jack
+8	Nance
+8	Kags
+7	Conkey Chickweed_Conkey
+6	Mr. Maylie
+6	Miss Betsy_Betsy
+6	Lor
+5	Sally
+5	Mr. Monks
+4	Newgate
+4	Smithfield
+4	Mr. Chickweed
+4	Charles Bates
+4	Agnes Fleming_Agnes
+4	Faguey
+3	Phil Barker_Phil
+3	Wery
+3	Tommy Chitling_Tommy
+3	Damme
+3	Mr. Brittles
+3	Mrs. Bolter
+3	Edward Leeford
+2	Tom Chitling
+2	Ned
+2	Lauk
+2	Beadle
+2	Jew
+2	Saint Saviour 's Church
+2	King
+2	Kensington
+2	Susan
+2	Mr. Corney
+2	Jove
+2	Halloa
+2	Mr. Browlow
+2	Ben

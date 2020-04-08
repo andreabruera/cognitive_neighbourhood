@@ -1,0 +1,30 @@
+399	Peter Pan_Peter_PETER_Pan
+346	Wendy_WENDY
+130	John
+109	Michael
+64	Nana
+55	Smee
+55	Mrs. Darling
+39	Mr. Darling
+28	Starkey
+27	Jane
+19	James Hook_Hook
+15	George Darling_George
+14	Tinker Bell
+12	Tiger Lily
+12	Cecco
+10	Liza
+9	Bill Jukes_Jukes
+5	Mullins
+4	Long Tom
+4	Tootles
+4	Johnny Corkscrew_Johnny
+3	Cookson
+3	Tink
+2	Miss Fulsom
+2	Cinderella
+2	Davy Jones
+2	Alf Mason
+2	Jenkins
+2	Piccaninny
+2	Turley

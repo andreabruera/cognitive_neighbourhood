@@ -1,0 +1,40 @@
+190	Mr. Sherlock Holmes_Sherlock Holmes_Mr. Holmes_Holmes_HOLMES
+161	Henry Baskerville_Baskerville_Henry
+121	Charles Baskerville_Baskerville_BASKERVILLE_Charles
+113	Dr. Watson_Watson
+92	Dr. James Mortimer_James Mortimer_Dr. Mortimer_Mortimer_James
+74	Mr. Stapleton_Stapleton
+66	Mrs. Barrymore_Barrymore
+22	Mrs. Laura Lyons_Laura Lyons_Mrs. Lyons_Lyons
+18	Mr. Frankland_Frankland
+18	Coombe Tracey
+13	Selden
+11	Miss Stapleton
+11	Merripit House_House
+9	Baskervilles
+9	Cartwright_CARTWRIGHT
+8	Hugo Baskerville_Hugo
+8	Times
+7	Mrs. Stapleton
+6	Barrymores
+6	John Clayton_Clayton_John
+6	Baskerville Hall
+6	Mr. Barrymore
+6	Charing Cross Hospital_Charing Cross
+5	Perkins
+5	Rodger Baskerville_Rodger
+4	Lestrade
+4	Grimpen
+3	Mrs. Vandeleur_Vandeleur
+3	L. L.
+3	Mr. James Desmond_James Desmond
+3	Devonshire
+2	Beryl
+2	Mrs. Oldmore
+2	Stapletons
+2	Bradley
+2	Regina
+2	Jove
+2	Wilson
+2	Anthony
+2	M.R.C.S.

@@ -1,0 +1,146 @@
+157	Gabriel
+70	Miss Kate_Kate
+59	Mr. Kernan_Kernan
+58	Mary Jane_Mary
+56	Mr. Cunningham
+55	Ignatius Gallaher_Gallaher
+53	Mr. Henchy
+53	Mr. Power
+53	Miss Julia_Julia
+52	Corley
+48	Mr. Browne_Browne
+47	Mrs. Kearney
+45	Mr. O'Connor
+41	Maria
+37	Mr. Holohan_Holohan
+35	Joe Dillon_Joe
+35	Little Chandler_Chandler
+35	Freddy Malins_Freddy_Malins
+31	Mr. M'Coy
+31	Lenehan
+27	Mr. Alleyne
+27	Farrington
+26	Mr. Bartell D'Arcy_Bartell D'Arcy_Mr. D'Arcy
+26	Jimmy
+23	Mahony
+22	Gretta
+22	Mr. Hynes_Hynes
+21	Jack Mooney_Jack_JACK
+19	Tom Burke_Burke_Tom
+18	Mr. Crofton_Crofton
+16	Mr. Fogarty_Fogarty
+16	Miss Kathleen Kearney_Kathleen Kearney_Kathleen
+16	Mrs. Kernan_Kernan
+16	Mr. Fitzpatrick
+14	Lily
+14	Mrs. Mooney_MRS. MOONEY_Mooney
+13	Eliza
+13	Villona
+13	Polly
+12	Mr. Cotter_Cotter
+12	Mr. Lyons_Lyons
+12	Leo Dillon_Dillon_Leo
+12	Mrs. Conroy
+11	Mrs. Donnelly
+11	Miss Healy
+10	Johnny
+9	John MacHale_John
+9	Miss Morkan_Morkan
+9	Mrs. Malins
+9	Segouin
+9	Miss Ivors
+8	Tommy
+8	Mr. O'Madden Burke_O'Madden Burke
+8	O'Halloran
+8	Committee
+8	Miss Daly
+7	Frank
+7	Miss Delacour_Delacour
+7	Farley
+7	Parnell_PARNELL
+7	Freeman
+7	Erin
+7	Mr. Duffy
+6	Butler
+6	Nannie
+6	Miss O'Callaghan
+6	James
+6	Mrs. Sinico_Sinico
+6	Paddy Leonard_Leonard
+6	Annie
+6	Mr. Bell
+6	George
+5	Purdon
+5	Harry
+5	Aunt Kate
+5	Jesus Christ_Christ
+5	Miss Furlong
+5	Father Keon_Keon
+5	Martin
+5	Higgins
+5	Mr. Doran
+4	Miss Parker
+4	Pat
+4	Stephen
+4	Mr. Conroy
+4	Mr. Kearney
+4	Ernest
+4	Miss Beirne
+4	Nosey Flynn_Flynn
+4	Michael Furey
+4	Pope
+4	Bernard Bodley_Bodley
+4	Madam Glynn
+4	Routh
+4	Trinity College
+4	Mr. Shelley
+4	Mr. Harford
+3	Church
+3	Mr. Duggan
+3	Alphy
+3	Eveline_EVELINE
+3	Weathers
+3	Downes
+3	Colgan
+3	O'Rourke
+3	Hogan
+3	Corless
+3	Dicky Tierney_Tierney
+3	Patrick Morkan_Morkan
+3	Mr. Hendrick
+3	O'Neill
+3	Riviere
+3	Pigeon House
+3	Walter Scott
+2	Lux
+2	Aunt Julia
+2	Billy
+2	Ballast Office
+2	Molly
+2	Mr. Crosbie
+2	Kearneys
+2	Edward
+2	Mangan
+2	Mr. Kerrigan
+2	Ward
+2	Egan
+2	M'Auley
+2	Caruso
+2	Bob
+2	Buenos Ayres
+2	Monica
+2	Mr. Bergin
+2	Constantine
+2	Shakespeare
+2	Alderman Cowley
+2	Scotch House
+2	Dowling
+2	Mulligan
+2	Mrs. Mercer
+2	Journal
+2	Browning
+2	O'Hara
+2	Mr. Meade
+2	Terry Kelly
+2	Keogh
+2	Lord Lytton

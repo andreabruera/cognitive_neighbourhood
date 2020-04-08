@@ -1,0 +1,3 @@
+13	wall_walls
+13	eye_eyes
+13	door_doors

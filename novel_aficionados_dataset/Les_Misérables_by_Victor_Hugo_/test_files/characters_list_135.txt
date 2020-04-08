@@ -1,0 +1,547 @@
+1303	M. Marius_Marius_MARIUS
+1122	Jean Valjean_JEAN VALJEAN_Valjean_Jean
+311	Little Gavroche_Gavroche_GAVROCHE
+280	Mademoiselle Cosette_Mademoiselle_Cosette
+251	Enjolras_ENJOLRAS
+250	M. Madeleine_M. MADELEINE_Madeleine
+185	M. Gillenormand_Gillenormand_GILLENORMAND
+155	Monsieur de Courfeyrac_Monsieur Courfeyrac_Courfeyrac_Monsieur
+135	Napoleon
+131	Mother Jondrette_Jondrette
+128	Father Fauchelevent_Fauchelevent
+108	M. Leblanc_M. LEBLANC_Leblanc
+97	Monsieur le Maire_Monsieur
+84	Monsieur Javert_Javert
+77	Madame Thenardier_Thenardier
+76	M. Mabeuf_Mabeuf
+66	Madame Magloire
+62	Combeferre
+55	Toussaint_TOUSSAINT
+54	Grantaire
+48	M. Fauchelevent
+47	Monsieur Babet_Monsieur_Babet
+47	Bossuet
+47	Laigle de Meaux_De Meaux_Laigle_Meaux
+41	Brujon
+41	Sieur Boulatruelle_Boulatruelle_BOULATRUELLE
+39	Jesus Christ_Christ_Jesus
+38	Mother Catherine de Bar_Catherine_Mother
+36	Joly
+35	Voltaire
+34	Theodule Gillenormand_Theodule
+33	Louis Philippe
+32	Mademoiselle Gillenormand
+31	Nicolette
+31	Simplice_SIMPLICE
+30	Mademoiselle Baptistine_Mademoiselle_Baptistine
+30	Rue de l'Homme Arme_Rue l'Homme Arme
+30	Mr. Mayor
+29	Caesar
+29	Magnon_MAGNON
+28	Monsieur le Baron
+28	Georges Pontmercy_Pontmercy
+28	Father Champmathieu_Champmathieu
+27	Bonaparte
+25	M. Myriel_Myriel
+25	Jean Prouvaire_Prouvaire
+25	M. Felix Tholomyes_Felix Tholomyes_FELIX THOLOMYES_Tholomyes_Felix
+25	Little Gervais_Gervais
+24	Blachevelle_BLACHEVELLE
+24	Le Baron Marius Pontmercy_Baron Marius Pontmercy_Marius Pontmercy_MARIUS PONTMERCY_Baron Pontmercy_BARON PONTMERCY_Baron Marius
+24	Blucher
+22	National Guard
+22	Faubourg Saint-Antoine_Saint-Antoine
+22	Monsieur Guelemer_Guelemer
+21	Monseigneur Bienvenu_Bienvenu_BIENVENU
+19	Louis XVIII
+19	Rue Jean-Jacques Rousseau_Jean-Jacques_Rousseau
+18	La Force
+18	Bahorel
+18	Bishop
+17	Le Cabuc_Cabuc
+17	Mestienne
+17	Azelma
+17	Monsieur Pontmercy
+17	Bougon
+17	Monsieur Madeleine
+16	Favourite
+16	Mother Plutarque_PLUTARQUE
+16	Blondeau_BLONDEAU
+16	Father Hucheloup_Hucheloup
+15	Bigrenaille
+15	Jeanne d'Arc_Jeanne
+15	Dahlia
+15	Monsieur Marius
+15	Zephine
+14	Martin Verga_Martin
+14	Lamarque
+14	Danton
+14	M. Laffitte_Laffitte_LAFFITTE
+14	Ney
+13	Rue de la Chanvrerie_Rue Chanvrerie
+13	Louis XIV
+13	Dante
+13	Feuilly
+12	Bruneseau
+12	Marat
+12	Marengo
+12	Monsieur Jean
+12	Gorbeau
+12	Gibelotte
+12	Claquesous
+11	Bernard Guidonis_Bernard
+11	Jardin des Plantes
+11	Brutus
+11	Cochepaille
+11	Marguerite
+11	Court of Assizes_Court
+11	Mon Dieu_Dieu
+10	Monsieur Fabantou_Fabantou
+10	Louis XVI
+10	Alexander
+10	Moniteur
+10	Mademoiselle Euphrasie_Euphrasie
+10	Louis XV_Louis
+10	Diogenes Laertius_Diogenes
+10	Jacquin Labarre_Labarre
+9	Pont de Jena_Jena
+9	Rue Saint-Louis_Saint-Louis
+9	La Haie-Sainte
+9	Bulow
+9	Tacitus
+9	Orion_ORION
+9	Gribier
+9	Moliere
+8	Bombarda
+8	M. Scaufflaire_Scaufflaire
+8	Hougomont
+8	Fameuil
+8	Andre Chenier
+8	Barthelemy
+8	Diderot
+8	Foy
+7	Fleming
+7	Lobau
+7	Madame Victurnien_MADAME VICTURNIEN
+7	House of Bourbon_House
+7	Horace
+7	Mother Hucheloup
+7	Venus
+7	Mr. Marius
+7	Charles X._Charles
+7	Vincent de Paul_Vincent_Paul
+7	Corinthe
+7	David d'Angers_David
+7	Nero
+7	Madame Albertine_Albertine
+7	Corneille
+7	Madam Magloire
+7	Printanier
+7	Adam
+6	Chenildieu
+6	Reille
+6	Lacenaire
+6	Virgil
+6	M. Baloup_Baloup
+6	Henri IV
+6	M. Jean
+6	Benedictines
+6	Pardieu
+6	French Academy_Academy
+6	Patron-Minette
+6	Panchaud
+6	Monsieur le Cure
+6	Soult
+6	Monsieur Fauchelevent
+6	Rue Plumet
+6	Ursule
+6	Madame la Baronne
+6	Lyons
+5	M. Gisquet_Gisquet
+5	Drapeau Blanc
+5	Talma
+5	Michael Angelo_Michael
+5	Pantin
+5	Tryphon
+5	Wurmser
+5	Camille Desmoulins_Desmoulins_Camille
+5	Pamela
+5	Catholic
+5	Austerlitz
+5	Rue Saint-Antoine
+5	Henry IV_Henry
+5	Juvenal
+5	Olympus
+5	Socrates
+5	Jean Mathieu_Mathieu
+5	Saint-Merry
+5	John Brown_John
+5	Faubourg Saint-Germain
+5	Vernon
+5	Elba
+5	Charlemagne
+5	Bugeaud
+5	Demandait Charlot_Charlot
+5	Father Fauvent_Fauvent
+5	Cicero
+5	Dismas
+5	Arsenal
+5	Benoit
+5	Pardi
+5	Rue Petit-Picpus
+5	M. de Rohan
+5	M. Urbain Fabre_Urbain Fabre
+5	Fannicot
+5	Rue Saint-Jacques
+5	M. Bamatabois_M. BAMATABOIS
+4	Faubourg Saint-Marceau_Saint-Marceau
+4	Antoine_ANTOINE
+4	Rue Saint-Honore
+4	Ponsonby
+4	Boulevard des Invalides_Invalides
+4	Maitre Corbeau_Corbeau
+4	Louis XVI.
+4	Monsieur Leblanc
+4	Marquis
+4	Rue de la Petite Truanderie
+4	Mr. Inspector
+4	Greve
+4	Christopher Columbus
+4	Saint-Simon
+4	Madame de T.
+4	Institute
+4	Eden
+4	Madame de Genlis
+4	Cromwell
+4	Beccaria
+4	Cross of Colbas
+4	Genflot
+4	Richefeu
+4	Hill
+4	Three Dauphins
+4	Hannibal
+4	Rue du Cadran_Cadran
+4	Louis XVII
+4	Father Mabeuf
+4	Rue Pavee
+4	National Guardsman
+4	Cesar de Bus_Cesar
+4	Brevet
+4	Matt
+4	Chatelet
+4	Bertrand
+4	Jehovah
+4	Boulevard de l'Hopital
+4	Joubert
+4	Delort
+4	Kellermann
+4	Imperial Guard
+4	Papelotte
+4	Guillaume van Kylsom_Guillaume
+4	Leonidas
+4	Villon
+4	Minette_MINETTE
+4	Faubourg du Temple_Temple
+4	Issy
+4	Bauduin
+4	Zelma
+4	Fourier
+4	Clinton
+4	Aspasia
+4	Alten
+4	Pierron
+4	Perpetue
+4	Father Gillenormand
+4	Solomon
+4	Prudhomme
+3	Edon
+3	Renard
+3	Lenoir
+3	Genappe
+3	M. Chabouillet
+3	Soye
+3	Prince de Leon_Prince
+3	Rue des Precheurs
+3	Rue Neuve-Sainte-Genevieve
+3	M. Geborand
+3	Sylla
+3	Gans
+3	Milhaud
+3	Alix
+3	Kleber
+3	William
+3	Porte Saint-Jacques
+3	Navet
+3	Claude Gueux_Claude
+3	Mame Hucheloup
+3	Roguet
+3	Rue Cassette
+3	Rue de la Verrerie
+3	Pascal
+3	Justice
+3	Les Miserables
+3	Friedland
+3	Picard
+3	Therese
+3	Romeo
+3	Ivry
+3	Mother Gerbaud_Gerbaud
+3	Rue des Billettes_Billettes
+3	Mademoiselle Bouchard
+3	Saint-Paul
+3	Jerome
+3	Rue Saint-Dominique
+3	Porte Saint-Martin
+3	Floreal
+3	Marceau
+3	Peter
+3	Mademoiselle Vaubois
+3	Marie-Claude
+3	Genoa
+3	La Belle-Alliance_Belle-Alliance
+3	Vivian
+3	Balizard
+3	Archives
+3	Society of Action_Society
+3	Pope
+3	Turgot
+3	Don Alvares
+3	Dubois
+3	Mother Sainte-Mechtilde_Sainte-Mechtilde
+3	Clusium
+3	Helena
+3	Joseph de Maistre_Joseph
+3	Mont-Saint-Jean
+3	Gueulemer
+3	Norman
+3	Cain
+3	Durutte
+3	Alba
+3	Louis XVIII.
+3	Rue du Cygne
+3	Rue du Chaume
+3	Courrier Francais
+3	Chasse
+3	Marie Antoinette_Marie
+3	La Fontaine
+3	Potier
+3	Rue Saint-Denis
+3	Lesgle_LESGLE
+3	Benjamin Constant
+3	Metternich
+3	Rue Mondetour
+3	M. de Villele
+3	Wagram
+3	Monsieur Thenardier_MONSIEUR THENARDIER
+3	Lagny
+3	Casimir Perier
+3	Rue de Vaugirard_Rue Vaugirard
+3	Maubert
+3	Rapee
+3	Passy
+3	Melas
+3	Cleopatra
+3	State
+3	Machiavelli
+3	Lacoste
+2	Mavot
+2	Plato
+2	Lola
+2	Les Madelonettes
+2	Domitian
+2	Colbert
+2	Colville
+2	Babylon
+2	Raphael
+2	Duc de Val
+2	Alfred
+2	Bank
+2	Maillard
+2	Marchangy
+2	Frederick
+2	Hernani
+2	Jacquerie
+2	Turenne
+2	Regnier
+2	Cherubino
+2	Benedictine
+2	Mack
+2	Madame Hucheloup
+2	Gesmas
+2	Jacques
+2	Lamothe
+2	Bastille
+2	Dieu de Dieu
+2	Environs of Cauteretz
+2	Vieux
+2	Mitchell
+2	Municipal Guard
+2	Mirabelle
+2	Cournet
+2	Carnot
+2	Louison
+2	Fontenoy
+2	Letellier
+2	Nantes
+2	Blaise Poutrain
+2	M. Delvincourt
+2	Marcus Aurelius
+2	Manuel
+2	M. Barge
+2	Watteau
+2	Saint-Pol
+2	Hebert
+2	Glorieux
+2	Lord Bathurst
+2	Mademoiselle Mars
+2	Stella
+2	Rue des Filles-du-Calvaire
+2	Nini
+2	Mr. District-Attorney
+2	Marquise
+2	Merlonus Horstius
+2	Pisacane
+2	Monsieur le Comte
+2	Rue Blomet
+2	Savoyard
+2	Te Deum
+2	La Hulpe
+2	Gournay
+2	Buonaparte
+2	Stuarts
+2	Maitland
+2	Ambiorix
+2	Bondy
+2	Rue Bassompierre
+2	Descartes
+2	Quai aux Fleurs
+2	Duplat
+2	Pepin
+2	Kruideniers
+2	Bologna
+2	Rue de l'Ouest
+2	Saint-Cloud
+2	Rue Sainte-Avoye
+2	Ompteda
+2	Rothschild
+2	Hacke
+2	Gordon
+2	de Conde
+2	Mademoiselle Fabre
+2	Isaiah
+2	Grimod de la Reyniere
+2	Nicolas
+2	Fouche
+2	Jean-Francois Senault
+2	Jacquot
+2	Bienvenu Myriel
+2	Mahomet
+2	Fesch
+2	Gassendi
+2	Mademoiselle de Blemeur
+2	Cravatte
+2	M. Pontmercy
+2	Henri II
+2	Monsieur Tranchelevent
+2	Constituent Assembly
+2	Gaspard Bes
+2	Cournand
+2	Rue du Chemin-Vert-Saint-Antoine
+2	Beaulieu
+2	Suchet
+2	Castaing
+2	Haxo
+2	Musichetta
+2	Rue Saint-Martin
+2	Listolier
+2	Diana
+2	Apuleius
+2	Rue de la Paix
+2	Triton
+2	Rue Polonceau
+2	Monsieur Gavroche
+2	Lefebvre-Desnouettes
+2	Rue Sainte-Croix-de-la-Bretonnerie
+2	Brune
+2	Calas
+2	VICTOR HUGO_Victor Hugo
+2	Vade
+2	Army
+2	M. Henri Puget
+2	Vandermeulen
+2	Marnix
+2	Murat
+2	Babeuf
+2	Mother Thenardier
+2	Marcognet
+2	Lombier
+2	M. le Maire
+2	Domon
+2	Lafayette
+2	Henry IV.
+2	Black Forest
+2	Plancenoit
+2	National Guardsmen
+2	Balzac
+2	Bosh
+2	Hudson Lowe
+2	Madame Pontmercy
+2	Ferdinand
+2	Poulailler
+2	Saint-Eusebius
+2	Dupuytren
+2	M. de Vaublanc
+2	Helen
+2	Philip de Neri
+2	La Belle Alliance
+2	Berthier
+2	M. le Duc d'Angouleme
+2	Milton
+2	Zieten
+2	Wathier
+2	Nemorin
+2	Mother Innocente
+2	Isabeau
+2	Monsieur Fabre
+2	Basque
+2	M. le Duc de Havre
+2	Abel
+2	Monsieur le Prefet
+2	Trestaillon
+2	Mirabeau
+2	Garibaldi
+2	Hercules
+2	Anceau
+2	Jondrettes
+2	MARIUS HAGGARD_Marius Haggard
+2	Blackmann
+2	Gauls
+2	Duc de Nevers
+2	Guilleminot
+2	Mother Ascension
+2	Michel
+2	Charles X
+2	Lise
+2	Perrault
+2	Rue de la Petite-Truanderie
+2	Byron
+2	Supreme Being
+2	Father Madeleine
+2	Madam Rousseau
+2	M. de Roquelaure
+2	Schiller
+2	Alighieri
+2	Quiot
+2	Celimene
+2	Rue des Postes
+2	Seignor
+2	Monsieur Gillenormand
+2	God
+2	Mesmer
+2	Wavre
+2	Palafox
+2	Pritchard
+2	Boulevard Bourdon
+2	Charles the Fifth
+2	Citeaux
+2	Mother Crucifixion

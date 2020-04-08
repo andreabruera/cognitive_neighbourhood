@@ -1,0 +1,46 @@
+381	Hercule Poirot_Poirot_POIROT
+207	Mr. John Cavendish_John Cavendish_Mr. Cavendish_Cavendish_Mr. John_John
+196	Mrs. Inglethorp_Inglethorp
+142	Mr. Alfred Inglethorp_Alfred Inglethorp_Mr. Inglethorp_Alfred
+100	Mademoiselle Cynthia_Mademoiselle_Cynthia
+83	Miss Howard
+80	Mademoiselle Dorcas_Dorcas
+78	Monsieur Lawrence_Lawrence
+71	Mary Cavendish_Mary
+63	Dr. Bauerstein_Bauerstein
+54	Mrs. Cavendish
+44	Mr. Hastings_Hastings
+26	Japp
+22	Ernest Heavywether_Heavywether_Ernest
+22	Mr. Wells_Wells
+20	Mr. Lawrence Cavendish_Lawrence Cavendish_Mr. Lawrence
+19	Dr. Wilkins_Wilkins
+19	Evelyn Howard_Evelyn
+18	Annie
+17	Evie
+17	Monsieur Poirot
+14	Emily
+13	Mrs. Raikes_Raikes
+12	Manning
+12	Mr. Mace_Mace
+11	Mr. Poirot
+8	Summerhaye
+8	Mr. Philips
+6	Miss Cynthia
+5	Cynthia Murdoch
+4	William Earl_William
+4	Lady Tadminster
+4	Red Cross Hospital
+4	Miss Murdoch
+3	Cook
+3	Denby
+3	Styles Court
+2	Parkson
+2	Papa Poirot
+2	Willum
+2	Albert Mace
+2	Monsieur John
+2	Sherlock Holmes
+2	Jack
+2	Monsieur Hastings
+2	Essex

@@ -1,0 +1,49 @@
+424	Mr. Heathcliff_Heathcliff
+381	Catherine Earnshaw_Catherine_Earnshaw
+305	Mrs. Linton Heathcliff_Linton Heathcliff_Mrs. Heathcliff_Mrs. Linton_Linton
+153	Hareton Earnshaw_Earnshaw_Hareton
+140	Joseph
+124	Miss Cathy_Cathy
+100	Ellen Dean_Ellen_ELLEN_Dean
+92	Mr. Edgar_Edgar
+87	Nelly Dean_Nelly
+76	Mr. Hindley_Hindley
+60	Mr. Linton
+56	Isabella Linton_Isabella
+38	Mr. Earnshaw
+37	Mrs. Dean
+35	Zillah
+30	Miss Catherine
+24	Mr. Kenneth_Kenneth
+23	Edgar Linton
+19	Mr. Lockwood
+16	Miss Linton
+13	Catherine Linton
+13	Thrushcross Grange
+11	Gimmerton Kirk_Gimmerton
+10	Mr. Hareton
+9	Mrs. Earnshaw
+9	Lintons
+9	Jabez Branderham_Branderham_Jabez
+6	Mr. Green_Green
+5	Foundation
+5	Miss Isabella
+5	Minny
+4	Skulker
+4	Frances
+4	Maister Linton_Maister
+3	Bud
+3	Michael
+3	Miss Earnshaw
+3	Robert
+3	Master Linton
+3	Nell
+3	Yon
+3	Charlie
+2	Catherine Heathcliff
+2	Noa
+2	Hindley Earnshaw
+2	Liverpool
+2	Penistone Crags
+2	Mary
+2	Juno

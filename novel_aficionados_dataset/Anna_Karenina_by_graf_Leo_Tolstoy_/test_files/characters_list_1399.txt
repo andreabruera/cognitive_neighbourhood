@@ -1,0 +1,222 @@
+1609	Nikolay Levin_Nikolay_Levin
+803	Anna Arkadyevna_Anna
+668	Kitty Shtcherbatskaya_Shtcherbatskaya_Kitty
+665	Alexey Alexandrovitch Karenin_Alexey Alexandrovitch_Karenin_Alexey
+544	Stepan Arkadyevitch
+307	Sergey Ivanovitch Koznishev_Sergey Ivanovitch_Sergey Koznishev_Koznishev_Sergey
+283	Dolly
+206	Darya Alexandrovna_Darya
+169	Alexander Vronsky_Alexander_Vronsky
+136	Nikolay Ivanovitch Sviazhsky_Nikolay Ivanovitch_Sviazhsky
+124	Betsy Tverskaya_Tverskaya_Betsy
+120	Vassenka Veslovsky_Veslovsky_Vassenka
+114	Pyotr Oblonsky_Oblonsky_Pyotr
+111	Seryozha
+110	Lidia Ivanovna_Lidia
+109	Konstantin Dmitrievitch Levin_Konstantin Dmitrievitch_Konstantin Levin_Konstantin
+101	Mademoiselle Varenka_Mademoiselle_Varenka
+76	Katavasov
+70	Agafea Mihalovna
+62	Golenishtchev
+58	Prince Yashvin_Yashvin
+45	Laska
+44	Mihailov
+39	Stiva
+37	Madame Stahl_Stahl
+36	Grisha
+34	Madame Karenina_Karenina
+34	Pestsov
+34	Petritsky
+34	Marya Nikolaevna_Marya
+33	Kostya
+31	Varvara Andreevna_Varvara
+31	Serpuhovskoy
+27	Tanya
+26	Matvey
+24	Metrov
+24	Lizaveta Petrovna
+22	Prince Shtcherbatsky_Shtcherbatsky_Prince
+22	Stremov
+21	Jules Landau_Landau
+21	Myakaya
+20	Masha Tchibisova_Masha
+20	Vassily Fedorovitch_Vassily
+20	Fyodor Ryezunov_Ryezunov_Fyodor
+19	Kouzma
+19	Liza Merkalova_Liza
+19	Ryabinin
+19	Christ
+18	Tushkevitch
+17	Annushka
+17	Ivan Parmenov_Ivan
+17	Mahotin
+16	Nevyedovsky
+16	Countess Nordston
+15	Turovtsin
+15	Vassily Lukitch
+15	Anna Pavlovna
+14	Korsunsky
+13	Sappho Shtoltz_Sappho
+12	Korney
+11	Snetkov
+11	Yegor
+11	Petersburg
+11	Mitya
+10	Princess Sorokina_Sorokina
+10	Mihail Vassilievitch_Mihail
+10	Vorkuev
+10	Marya Philimonovna
+10	Kapitonitch
+9	Kritsky
+9	Nikolay Dmitrievitch
+9	Pava
+9	Varya
+9	Natalia
+8	Bryansky
+8	Vaska
+8	Katerina Alexandrovna
+8	Philip
+8	Katya
+8	Petrov
+8	Mademoiselle Linon
+8	Tchirikov
+7	Kuzovlev
+7	Bartnyansky
+7	Flerov
+7	Marya Borissovna
+7	Levins
+7	Madame Lvova
+7	Pyotr Dmitrievitch
+6	Mishka
+6	Krak
+6	Alexey Vronsky
+6	John
+6	Lily
+6	Corps of Pages_Corps
+6	Matrona Philimonovna_Matrona
+6	Marie Sanina_Marie
+6	Arseny
+6	Lvov
+6	Grinevitch
+6	Prince Tchetchensky_Tchetchensky
+6	Enoch
+6	Annie
+6	Gladiator
+6	Alexander Nevsky
+5	Miss Hoole
+5	Marya Yevgenyevna
+5	Gagin
+5	Alexey Kirillovitch
+5	Kamerovsky
+5	Commission
+5	Volgarinov
+5	Vozdvizhenskoe
+5	Sludin
+5	Patti
+4	Fomin
+4	Pilate
+4	Nilsson
+4	Mihail Petrovitch
+4	Imperial Council_Council
+4	Prince Kaluzhsky_Kaluzhsky
+4	Malthus
+4	Nadinka
+4	Diana
+4	Sergey Alexyevitch
+4	Vronskaya
+4	Spencer
+4	Ekaterina
+4	Soden
+3	Homiakov
+3	Mihalitch
+3	Count Bezzubov_Bezzubov
+3	Cordelia
+3	Pomorsky
+3	Board of Irrigation
+3	Ivanov
+3	Nikolay Ivanitch
+3	Madame Berthe
+3	Madame Kartasova
+3	Ivan Petrovitch
+3	Oblonskys
+3	Voytov
+3	Lear
+3	Mariette
+3	Sokolov
+3	Raphael
+3	Andrey
+3	Rebecca
+3	Gvozdyov
+3	Madame Vrede
+2	Tversky
+2	Isaac
+2	Maman
+2	Michelli
+2	Tyndall
+2	Darya Dmitrievna
+2	Shakespeare
+2	Charles
+2	Berkoot
+2	Parfen Denisitch
+2	Venovsky
+2	Franklin
+2	Society of Agriculture
+2	Church
+2	Anna Karenina
+2	Wilson
+2	Fyodor Bogdanitch
+2	Kartasov
+2	Wagner
+2	Foulde
+2	Pryatchnikov
+2	Shuraev
+2	Kauffmann
+2	Durchlaucht
+2	Pripasov
+2	Shtcherbatskys
+2	Fomitch
+2	Hliustov
+2	Plato
+2	Servia
+2	Semyon
+2	Mulhausen
+2	Dolinka
+2	Sergey Alexeitch
+2	Hannah
+2	Cela
+2	Pravdin
+2	Kirillov
+2	Platon
+2	Pierre
+2	Nikitin
+2	Fokanitch
+2	Madame Korsunskaya
+2	Dussot
+2	Levy
+2	Château des Fleurs
+2	God
+2	Nice
+2	Venus
+2	Vladimir
+2	Marya Vlasyevna
+2	Ignat
+2	Sitnikov
+2	Elle
+2	Oblonskaya
+2	Komissarov
+2	Katerina Pavlovna
+2	Schopenhauer
+2	Alabin
+2	Aline
+2	Tiutkin
+2	Brownie
+2	Konstantin Demitrievitch
+2	Lafitte
+2	Karibanov
+2	Sventitsky
+2	Tcharskaya
+2	Kedrov
+2	Madame Nikolaeva
+2	Dunyasha
+2	Madame Sviazhskaya
+2	Nikolay Shtcherbatsky

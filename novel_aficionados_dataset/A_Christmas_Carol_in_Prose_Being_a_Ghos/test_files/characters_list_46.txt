@@ -1,0 +1,24 @@
+283	Mr. Scrooge_Scrooge
+57	Bob Cratchit_Cratchit_Bob
+42	Jacob Marley_Marley_MARLEY_Jacob
+21	Tiny Tim_Tim
+19	Mrs. Cratchit
+18	Peter Cratchit_Peter
+17	Joe
+15	Mrs. Fezziwig_Fezziwig
+13	Spirit
+10	Martha
+9	Fred
+6	Cratchits
+6	Dick
+6	Topper
+5	Mrs. Dilber
+4	Ding
+3	Robin Crusoe
+2	Ali Baba
+2	Miss Belinda
+2	Mr. Marley
+2	Ebenezer
+2	Parliament
+2	Robert
+2	Caroline

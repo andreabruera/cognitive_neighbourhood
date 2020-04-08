@@ -1,0 +1,13 @@
+114	Mr. Utterson_Utterson
+78	Dr. Henry Jekyll_Henry Jekyll_HENRY JEKYLL_Dr. Jekyll_Jekyll
+72	Mr. Hyde_Hyde
+55	Poole
+30	Dr. Lanyon_DR. LANYON_Lanyon
+25	Edward Hyde
+17	Mr. Enfield_Enfield
+5	Harry Jekyll_Harry
+4	Bradshaw
+4	Danvers
+3	Carew_CAREW
+2	Mr. Guest
+2	Richard

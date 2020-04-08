@@ -1,0 +1,38 @@
+97	Mr. Sherlock Holmes_MR. SHERLOCK HOLMES_Sherlock Holmes_SHERLOCK HOLMES_Holmes
+52	John Ferrier_JOHN FERRIER_Ferrier_John
+40	TOBIAS GREGSON_Tobias Gregson_Gregson
+40	Mr. Drebber_Drebber
+37	Mr. Joseph Stangerson_Joseph Stangerson_Mr. Stangerson_Stangerson
+36	Mr. Jefferson Hope_Jefferson Hope_Jefferson_Hope
+34	Mr. Lestrade_Lestrade
+29	Lucy Ferrier_Lucy
+9	John Rance_JOHN RANCE_Rance
+8	Enoch J. Drebber_Enoch Drebber_Drebber
+6	Madame Charpentier_Charpentier
+5	Halliday
+5	Alice
+5	Mr. Gregson
+5	Brigham Young_Young
+5	Dr. Watson_Watson
+4	JOHN H. WATSON_JOHN WATSON_Watson
+4	Saints
+4	Wiggins
+3	Audley Court
+3	Murcher
+3	Arthur
+3	Lecoq
+3	Liverpool
+3	Dupin
+3	Mrs. Charpentier
+3	Joseph Smith
+3	Sally
+2	Dennis
+2	Jove
+2	Sawyer
+2	Cowper
+2	Rachel
+2	Norman Neruda
+2	Houndsditch
+2	Bob
+2	Prophet
+2	Gentile

@@ -1,0 +1,7 @@
+30	time_times
+29	tree_trees
+27	country
+23	side_sides
+19	head_heads
+17	eye_eyes
+17	horse_horses

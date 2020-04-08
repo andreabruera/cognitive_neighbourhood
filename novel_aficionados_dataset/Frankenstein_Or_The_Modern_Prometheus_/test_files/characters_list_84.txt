@@ -1,0 +1,33 @@
+92	Elizabeth Lavenza_Elizabeth
+55	Justine Moritz_Justine
+50	Felix
+45	Henry Clerval_Clerval_Henry
+27	Victor
+25	Safie
+24	William
+23	M. Frankenstein_Frankenstein
+22	Agatha
+13	Mr. Kirwin
+12	Ernest
+10	Margaret
+9	M. Waldman
+9	De Lacey
+9	M. Krempe_Krempe
+8	Mont Blanc
+8	Cornelius Agrippa_Agrippa
+7	Caroline Beaufort_Beaufort_Caroline
+6	Walton
+4	Mrs. Saville
+4	Paracelsus
+3	Albertus Magnus_Magnus
+3	Matlock
+3	Daniel Nugent_Daniel
+3	Plutarch
+3	Mont Saleve
+2	Madame Moritz
+2	Adam
+2	Arthur
+2	God
+2	M. Clerval
+2	Archangel
+2	Thomas

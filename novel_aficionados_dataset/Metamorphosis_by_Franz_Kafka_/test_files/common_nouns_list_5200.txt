@@ -1,0 +1,5 @@
+133	room_rooms
+101	sister
+99	father
+97	door_doors
+87	mother_Mother_mothers

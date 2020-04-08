@@ -1,0 +1,438 @@
+1946	Monsieur Pierre_Monsieur_Pierre
+1208	Natasha Rostova_Natasha_Rostova
+1059	Andrew Bolkonski_Bolkonski_Andrew
+660	Napoleon Bonaparte_NAPOLEON Bonaparte_Bonaparte_Napoleon_NAPOLEON
+609	Mary Bolkonskaya_Bolkonskaya_Mary
+607	Prince Nicholas_Nicholas_Prince
+525	Tarutino Kutuzov_Tarutino_Kutuzov
+448	Vasili Dmitrich Denisov_Vasili Dmitrich_Vasili Denisov_Denisov_Vasili
+423	Sonya
+323	Ilya Rostov_Rostov_Ilya
+313	Dolokhov
+283	Boris Drubetskoy_Drubetskoy_Boris
+220	Anatole Kuragin_Anatole_Kuragin
+203	Petya
+191	Prince Andrew
+169	Helene Bezukhova_Bezukhova_Helene
+160	Vasili Kuragin_Kuragin_Vasili
+153	Anna Pavlovna Scherer_Anna Pavlovna_Anna Scherer_Anna
+132	Anna Mikhaylovna Drubetskaya_Anna Mikhaylovna_Drubetskaya
+131	Alexander the Great_Alexander
+124	Mademoiselle Bourienne_Bourienne
+116	Count Rostopchin_Rostopchin
+116	Yakov Alpatych_Alpatych
+105	Marya Dmitrievna Akhrosimova_Marya Dmitrievna_Dmitrievna_Marya
+99	Balashev
+94	Berg
+79	Count Bennigsen_Bennigsen_Count
+78	Tikhon Shcherbaty_Tikhon
+75	Platon Karataev_Karataev_Platon
+74	Rostovs
+68	Nesvitski
+67	Speranski
+65	Julie Drubetskaya_Drubetskaya_Julie
+65	Cyril Vladimirovich Bezukhov_Cyril Vladimirovich_Bezukhov_Cyril
+63	Bilibin
+59	Tushin
+56	Prince Vasili_Prince
+56	Countess Vera_Vera
+53	Dron
+52	Murat_MURAT
+52	Barclay de Tolly_Barclay
+48	Prince Hippolyte_Hippolyte_Prince
+45	Prince Dolgorukov_Dolgorukov_Prince
+39	Ilyin
+38	Zherkov
+38	Pfuel
+38	Count Arakcheev_Arakcheev
+37	Daniel Cooper_Daniel
+37	Davout
+36	Michael Ivanovich_Michael
+34	Prince Bagration_Bagration
+32	Ermolov
+32	Lavrushka
+29	Lise
+29	Dunyasha
+26	Willarski
+24	Lord Jesus Christ_Christ_Jesus
+24	Dokhturov
+24	Weyrother
+24	Mavra Kuzminichna
+24	Shinshin
+24	Monsieur Dessalles_Dessalles
+23	Mason
+23	Gerasim
+22	Telyanin
+22	Joseph Alexeevich_Joseph
+22	Petersburg
+21	Michaud
+21	Drissa
+21	Mary Hendrikhovna
+21	Mack
+20	Ilagin
+20	Miloradovich
+20	Raevski
+20	Nicholas Rostov
+20	Timokhin
+19	Ferapontov
+19	Makar Alexeevich
+18	Suvorov
+18	Nicholas Bolkonski
+17	Mamma
+17	Countess Mary
+17	Balaga
+17	Ramballe
+17	Prince Bolkonski_Bolkonski_Prince
+16	Count Rostov
+16	Wolzogen
+16	Vaska Denisov_Vaska
+15	Morel
+15	Catherine Semenovna_Catherine
+15	Sergey Kuzmich_Kuzmich_Sergey
+14	Karay
+14	Marquis Paulucci_Paulucci
+14	Mademoiselle George_George
+14	Pelageya Danilovna_Pelageya
+14	Francis
+14	Berthier
+14	Anisya Fedorovna_Anisya
+13	Bogdanich
+13	Kozlovski
+13	Bolkhovitinov
+13	Konovnitsyn
+13	Natalie Rostova_Natalie
+13	Peter Nikolaevich_Peter
+13	Milka
+12	M. de Beausset_De Beausset_de Beausset
+12	Schon Grabern_Schon
+12	Karp
+12	Monsieur Buonaparte_Buonaparte
+12	Olmutz
+12	Rhetor
+12	Dimmler
+12	Simon
+12	Count Bezukhov
+11	Annette
+11	Lazarev
+11	Prince Auersperg_Auersperg
+11	Belova
+11	Magnitski
+11	Platov
+11	Peronskaya
+11	Dr. Lorrain_Lorrain
+11	Brunn
+11	Thiers
+10	Rapp
+10	Mary Bogdanovna
+10	Brothers
+10	Metivier
+10	Ney
+10	Dmitri
+10	Iogel
+10	Vasilich
+9	Prince Volkonski_Volkonski
+9	Joseph Bazdeev_Bazdeev
+9	Chichagov
+9	Council of State_Council_State
+9	Buxhowden
+9	Countess Rostova
+9	Zakhar
+9	Tsarevich
+9	Langeron
+9	Julie Karagina_Karagina
+9	Orel
+8	Schmidt
+8	Masha
+8	Kochubey
+8	Chernyshev
+8	Wostov
+8	Count Orlov-Denisov_Orlov-Denisov
+8	Theodore Ivanych_Theodore
+8	Peter Kirilych
+8	Countess Bezukhova
+8	Madame Schoss
+8	Uncle
+8	Uvarov
+8	Kaysarov
+8	Ferdinand
+8	Makarin
+8	Oldenburg
+8	Campan
+8	Paul
+8	Mitenka
+8	Mortemart
+7	Markov
+7	Kamenski
+7	Zdrzhinski
+7	Wintzingerode
+7	Semenov
+7	Rumyantsev
+7	Fili
+7	Zhilinski
+7	Nastasya Ivanovna
+7	Vereshchagin
+7	Likhachev
+7	Mon Dieu_Dieu
+7	Catiche
+7	Grand Duke
+6	Penza
+6	Louis XIV
+6	Austerlitz
+6	Karl Ivanich_Karl
+6	Stein
+6	Savelich
+6	Mamonov
+6	Lauriston
+6	Shcherbinin
+6	Madame de Stael
+6	Katie
+6	Mortier
+6	Gorki
+6	Count Tolstoy_Tolstoy
+6	Hippolyte Kuragin_Hippolyte
+6	Bogucharovo
+6	Gerard
+6	Don Juan_Don
+6	Dronushka
+5	Nikolenka
+5	Tuchkov
+5	Theodosia
+5	Malvintseva
+5	Friedland
+5	Junot
+5	Klyucharev
+5	Senate
+5	Louis XVI
+5	Rousseau
+5	Kirsten
+5	Broussier
+5	Antichrist
+5	Marie
+5	Belliard
+5	Vladimir
+5	Morand
+5	Nizhni
+5	Agrafena Ivanovna
+5	Poniatowski
+5	Moreau
+5	Michael Ilarionovich
+5	Sukharev
+5	St. George
+5	Obolenski
+5	Valuev
+5	Rook
+5	Orlov
+5	Peter Kirilovich
+5	Ostermann
+5	Matrena
+5	Jena
+5	Bory
+5	Kazan
+4	Nataly
+4	Golitsyn
+4	Grekov
+4	Ignat
+4	Gervais
+4	Gabriel
+4	Abbe Morio_Morio
+4	Otradnoe
+4	Przebyszewski
+4	Achilles
+4	Repnin
+4	Catholic Church_Catholic
+4	Khvostikov
+4	Leppich
+4	Sophie
+4	Louisa Ivanovna
+4	Malasha
+4	Novosiltsev
+4	Franz
+4	Ivan the Terrible_Ivan
+4	Makeev
+4	Napoleon III
+4	Marya Fedorovna
+4	Mary Nikolievna
+4	Nikita Ivanych_Nikita
+4	Claparede
+4	Mishka
+4	Fedya
+4	Terenty
+4	Ivanushka
+4	Dorokhov
+4	Stolypin
+4	Bald Hills
+4	von Toll_Toll
+4	Daniel Terentich
+4	Voltaire
+4	Bitski
+4	Wittgenstein
+4	Monsieur Kiril
+4	Sidorov
+4	Armfeldt
+4	Kolocha
+4	Savary
+3	Continental System
+3	Catherine Petrovna
+3	Mitka
+3	Theodore Vasilyevich Rostopchin_Theodore Vasilyevich
+3	Czartoryski
+3	Sokolov
+3	Countess Zubova_Zubova
+3	Mitya
+3	Frola
+3	Cossack
+3	Rameau
+3	Znaim
+3	Yakovlev
+3	Anton
+3	Krasnoe
+3	Monsieur de Jobert
+3	Mimi
+3	Committee on Army Regulations
+3	XXIII
+3	Duc d'Enghien
+3	Scherbinin
+3	Shishkov
+3	Lopukhin
+3	Mouton
+3	Kutaysov
+3	Anna Makarovna
+3	Kurakin
+3	Ismail
+3	Kremlin
+3	Enns
+3	Cross
+3	David
+3	Dessaix
+3	Ekonomov
+3	Plutarch
+3	Baron Funke
+3	Foka
+3	Potemkin
+3	Erza
+3	Solomon
+3	Naryshkin
+3	Prince Theodore
+3	Masons
+3	Efim
+3	Metternich
+3	Anna Semenovna
+3	Fabvier
+3	Tormasov
+3	Sventsyani
+3	Louis XV_XV
+3	Charles IX_Charles
+2	Ilyushka
+2	Madame Jacquot
+2	Olga
+2	Little Mytishchi
+2	Daddy
+2	Madame de Souza
+2	Melyukovka
+2	L'russe Besuhof
+2	Imperial
+2	Philip
+2	Midian
+2	Andrusha
+2	Western Army
+2	Petrusha
+2	Eykhen
+2	Tatawinova
+2	Lelorgne d'Ideville
+2	Melyukovs
+2	Vogel
+2	Les Chevaliers
+2	Zubov
+2	Dorogomilov
+2	Gospels
+2	Commission
+2	Stevens
+2	Tutolmin
+2	Danzig
+2	Mary Alexeevna
+2	Sloboda Palace
+2	Eighth Company
+2	Mary Ivanovna
+2	Peter Mikhaylovich Volkonski
+2	Young Rostov
+2	Pierre Bezukhov
+2	Fouche
+2	Natalya Ilynichna
+2	Peter Ivanovich
+2	Villeneuve
+2	Caesar
+2	Catherine the Great
+2	Baden
+2	Maman
+2	Strogonov
+2	Schneider
+2	Gascons
+2	Baron Asch
+2	Suvorovs
+2	Amelie
+2	Vasili Sergeevich
+2	Gibrard
+2	Chekmar
+2	Treasury
+2	Lanskoy
+2	Vesenny
+2	Adraksin
+2	Rugay
+2	Smolyaninov
+2	Misha
+2	Sasha
+2	Zaletaev
+2	Charon
+2	Auerstadt
+2	Lelya
+2	Diana
+2	Dohkturov
+2	Koutouzov_KOUTOUZOV
+2	Sila Andreevich
+2	Uvarka
+2	Jerome
+2	Barbara Ivanovna
+2	Petrov
+2	Michael Mitrich
+2	Taras
+2	Adam
+2	Registrar 's Department
+2	Augustin
+2	Pryanichnikov
+2	Nostitz
+2	Lannes
+2	Elizabeth
+2	Semenova
+2	Mavrushka
+2	Amalek
+2	Anna Ignatyevna
+2	Bagovut
+2	Balashav
+2	Vyazmitinov
+2	Evstafey
+2	Dobroe
+2	Tatarinova
+2	Gideon
+2	Bismarck
+2	Kuragina
+2	Peter Ilynich
+2	Marya Antonovna
+2	Savishna
+2	L'Empereur Napoleon
+2	Newton
+2	Sophia Danilovna
+2	Heloise
+2	Fifth Company
+2	Caulaincourt
+2	Prince Anatole
+2	Maria Theresa
+2	Aniska
+2	Bondarenko
+2	Davydov
+2	Fedor
+2	Bondarchuk
+2	Horse Guard
+2	Copernicus
+2	Sokolnitz
+2	Aline
+2	Prokofy

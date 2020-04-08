@@ -1,0 +1,288 @@
+2229	Senor Don Quixote of La Mancha_Senor Don Quixote_Don Quixote_DON QUIXOTE_La Mancha_LA MANCHA_QUIXOTE_Quixote_Don
+2191	Don Sancho Panza_Sancho Panza_SANCHO PANZA_Sancho_SANCHO_Panza
+143	lady Dona Dulcinea del Toboso_lady Dulcinea del Toboso_Dulcinea del Toboso_lady Dona Dulcinea_lady Dulcinea_Dona Dulcinea_lady Toboso_Dulcinea_Toboso
+139	Camilla
+135	Anselmo
+132	Senor Don Fernando_Don Fernando_Fernando
+112	Miguel de Cervantes_Cervantes_Miguel
+111	Dorothea_DOROTHEA
+94	Samson Carrasco_SAMSON CARRASCO_Carrasco_Samson_SAMSON
+83	Lady Luscinda_Luscinda
+82	Dona Teresa Panza_Teresa Panza_TERESA PANZA_Teresa
+75	Zoraida
+72	Cardenio
+61	Don Antonio Moreno_Don Antonio_Antonio
+59	Lothario
+59	Pedro Perez_Pedro
+50	Basilio
+46	Senor Montesinos_Montesinos
+45	Roque Guinart_Roque
+44	Amadis_AMADIS
+43	Leonela
+40	Altisidora_ALTISIDORA
+38	lady Dona Rodriguez_Dona Rodriguez_RODRIGUEZ_Rodriguez
+37	Cide Hamete Benengeli_Hamete Benengeli_Cide Hamete_BENENGELI_Benengeli
+33	Senor Don Luis_Don Luis
+32	Ricote
+30	Camacho_CAMACHO
+28	Chrysostom
+25	Gaul
+25	Marcela
+25	Maritornes
+24	Don Gaspar Gregorio_Don Gregorio_DON GREGORIO_Don Gaspar
+24	Don Diego de Miranda_Don Diego
+23	Gines de Pasamonte_Pasamonte_Gines
+22	Senor Merlin_Merlin
+22	Holy Brotherhood_Brotherhood
+21	Sanchica
+20	Don Lorenzo
+19	Claudia Jeronima_Claudia
+18	Master Nicholas_Nicholas
+18	Leandra
+18	Tosilos
+18	Dona Clara_Clara
+18	Senor Don Alvaro Tarfe_Don Alvaro Tarfe_Senor Don Alvaro_Don Alvaro
+16	Andres
+16	Lela Marien_Marien
+16	Ana Felix_Ana
+15	Shelton
+15	Don Roland_Roland
+15	Don John_John
+14	Melisendra
+14	El Toboso
+14	Micomicona
+14	Knight of the Lions_Lions_LIONS
+14	Tom Cecial
+14	Clavileno
+14	Biscayan
+13	Senor Don Gaiferos_Don Gaiferos
+13	Pedro Recio_Recio
+12	Don Vicente
+12	Malambruno
+11	Knight of the White Moon_White Moon_Knight_KNIGHT
+11	Lope de Vega_Lope
+11	Lorenzo Corchuelo_Corchuelo
+11	Peter
+11	Senora Trifaldi_Trifaldi
+10	Ambrosio
+10	Alexander the Great_Alexander
+10	Don Juan_Juan
+10	Dey
+10	Vivaldo
+10	Avellaneda
+10	Rodrigo Osorio_Rodrigo
+9	Roman Catholic Church_Catholic_Church
+9	Mambrino
+9	Knight of the Grove_Grove
+8	Cordova
+8	Julius Caesar_Caesar
+8	Antonomasia
+7	Don Belianis_DON BELIANIS
+7	Trifaldin
+7	Maria
+7	Hadji Morato
+7	Guadiana
+7	Lady Angelica_Angelica
+7	Charlemagne
+6	Shakespeare
+6	Torralva
+6	Aldonza Lorenzo
+6	Diego Garcia de Paredes_Diego Garcia
+6	AEneas
+6	Rocinante
+6	Don Rodrigo de Narvaez_Rodrigo de Narvaez_Don Rodrigo
+6	Navarrete
+6	Alcala
+6	lady Belerma_Belerma
+6	Don Clavijo
+6	Barcelona
+6	Chloris
+6	Osuna
+6	Ubeda
+6	Don Quixotes_Quixotes
+6	Durandarte
+6	Helen
+5	Rhadamanthus
+5	Goletta
+5	Baldwin
+5	Montalvan
+5	Bernardo del Carpio_Carpio
+5	Campo de Montiel_Montiel
+5	Don Manuel de Leon_Leon
+5	Marsilio
+5	Aristotle
+5	Senora Dona Rodriguez_Senora Rodriguez
+5	Virgil
+5	Senor Samson
+5	Dame Quintanona_Quintanona
+5	El Uchali_Uchali
+5	Morisco
+5	Don Jeronimo
+5	Lancelot
+5	lord Don Quixote
+5	Don Galaor_Galaor
+5	Duke Ricardo
+5	Master Pedro
+5	Jesus Christ_Christ_Jesus
+4	Pierres
+4	Conde de Lemos_Lemos_LEMOS
+4	Motteux
+4	XXIII
+4	Reinaldos
+4	Blanco
+4	Alonso Quixano
+4	Jervas
+4	Don Pedro de Aguilar_Don Pedro
+4	Turpin
+4	Philip II_Philip
+4	Sancho Panzas_Panzas
+4	Gil Polo_Gil
+4	Aragon
+4	Madasima
+4	God
+4	Bireno
+4	Adam
+4	Alcaide
+4	Queen Guinevere_Guinevere
+4	Alifanfaron
+4	Gaeta
+4	Moor
+4	Isabel de Saavedra_de Saavedra_Saavedra
+4	Vicente de la Roca_Vicente
+4	Diana
+4	Knight of the Rueful Countenance
+4	Marquis
+4	Tordesillas
+4	Teresa Cascajo_Cascajo
+3	Zamora
+3	Horace
+3	CANON
+3	Morgante
+3	Christian
+3	Friston
+3	Senora Teresa
+3	Homer
+3	Segovia
+3	Gonzalo
+3	Jorge de Montemayor_Montemayor
+3	Agramante
+3	Garcilaso de la Vega_Garcilaso
+3	Babieca
+3	Chloe
+3	Pena Pobre
+3	Manchegan
+3	Gascon
+3	Pope
+3	Carrascon
+3	Don Cirongilio
+3	Sarra
+3	Antequera
+3	Magalona
+3	Plato
+3	Mari Gutierrez
+3	Turk
+3	Troy
+3	St. John
+3	Court
+3	Ptolemy
+3	Duke of Sesa_Duke
+3	Moors
+3	Swift
+3	Senor Don Diego
+3	lady Oriana_Lady Oriana_Oriana
+3	Sobrino
+3	Thisbe
+3	Pentapolin
+3	Holy Office
+3	Diego de la Llana
+3	Quiteria
+2	Lord Carteret
+2	Sancha
+2	Cathay
+2	Wamba
+2	Methuselah
+2	Duke of Alva
+2	Marica
+2	Abindarraez
+2	Senor Carrasco
+2	Tirteafuera
+2	Flanders
+2	Judas
+2	Guillermo
+2	Senor Sancho
+2	Juma
+2	Cicero
+2	Charles V
+2	Quesada
+2	Darinel
+2	Medoro
+2	Garcilasso
+2	Ariosto
+2	Orbaneja
+2	BARBER
+2	Hector
+2	Sapient
+2	Alcantara
+2	Antonia Quixana
+2	Andrea
+2	Francis
+2	Treasury
+2	Don Bernardino de Velasco
+2	Martin
+2	Tom Carrasco
+2	Pandafilando
+2	Olalla
+2	Barabbas
+2	Lope Ruiz
+2	Ramon de Hoces
+2	Feliciano de Silva
+2	Orlando Furioso
+2	Dido
+2	Bayard
+2	John Ormsby
+2	Eugenio
+2	Rich
+2	Gongora
+2	Lepanto
+2	Alfonso VI
+2	Sacripante
+2	Pellicer
+2	Cortes
+2	Arnaut Mami
+2	Betis
+2	Iberia
+2	Ruy Diaz
+2	Phillips
+2	Dali Mami
+2	Ferdinand
+2	Arthur
+2	Miguelturra
+2	Paul
+2	Sterne
+2	Castellan
+2	Hercules
+2	Corpus Christi
+2	Ruidera
+2	Curiambro
+2	Almodovar del Campo
+2	Messina
+2	La Cava
+2	Montalban
+2	Yanguesans
+2	Pegasus
+2	Aranjuez
+2	Horn
+2	Geld
+2	Gustave Dore
+2	Robles
+2	Milton
+2	Ruggiero
+2	Lucretia
+2	Fonseca
+2	Cato
+2	Machuca
+2	Elisabad
+2	Nuno Alfonso
+2	Ye
+2	Fortune
+2	Dona Christina

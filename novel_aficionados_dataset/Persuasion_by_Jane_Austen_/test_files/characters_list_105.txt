@@ -1,0 +1,63 @@
+553	Miss Anne Elliot_Miss Elliot_Anne Elliot_Miss Anne_Elliot_Anne
+209	Mr Wentworth_Wentworth
+200	Mrs Charles Musgrove_Charles Musgrove_Mrs Musgrove_Mrs Charles_Musgrove_Charles
+174	Mr Elliot
+147	Lady Russell
+143	William Walter Elliot_Walter Elliot_William_Walter_Elliot
+134	Mary
+109	Louisa Musgrove_Louisa
+88	Elizabeth
+74	Henrietta
+66	James Benwick_Benwick_James
+63	Mrs Smith
+57	Mrs Clay
+57	Mrs Croft_Croft
+54	Mrs Harville_Harville
+37	Charles Hayter_Charles_Hayter
+33	Mrs Wallis_Wallis
+26	Kellynch Hall_Kellynch
+25	Lady Dalrymple
+25	Mr Shepherd_Shepherd
+23	Frederick Wentworth_Frederick
+21	Mr Musgrove
+20	Fanny Harville_Harville
+18	Miss Musgroves_Musgroves
+14	Uppercross Cottage_Uppercross
+12	Lady Elliot
+10	Harvilles
+9	Dr Shirley
+8	Winthrop
+8	Crofts
+7	Mrs Rooke_Rooke
+7	Miss Musgrove
+6	Dick Musgrove_Dick
+6	Miss Carteret
+6	Sophy
+5	Edward
+5	Richard
+4	Elliots
+4	Baldwin
+4	Jemima
+4	Miss Hamilton
+4	Marlborough Buildings
+3	White Hart
+3	Lord Byron
+3	Westgate Buildings
+3	Gowland
+3	Mr Robinson
+2	Sarah
+2	Dalrymples
+2	Penelope
+2	Kellynch Lodge
+2	Lady Wentworth
+2	Viscountess Dalrymple
+2	Mrs Shirley
+2	Mr Smith
+2	Lord St Ives
+2	Plymouth
+2	Miss Larolles
+2	Lady Alicia
+2	Sophia
+2	John Shepherd
+2	Wallises
+2	Miss Louisa

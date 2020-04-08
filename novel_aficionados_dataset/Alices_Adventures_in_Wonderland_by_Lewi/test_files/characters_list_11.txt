@@ -1,0 +1,21 @@
+392	Alice_ALICE
+52	Gryphon
+30	Hare
+27	Caterpillar
+13	Bill
+8	King
+7	William the Conqueror_William_WILLIAM
+5	Mock Turtle_Turtle
+5	Dinah
+5	Footman
+4	Mabel
+4	Mary Ann
+3	Queen
+3	Duchess
+3	Pat
+2	Lory
+2	Hatter
+2	Edwin
+2	Morcar
+2	Mouse
+2	Soo
